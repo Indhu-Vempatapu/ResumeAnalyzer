@@ -110,4 +110,4 @@ http://localhost:8501
 Upload a resume, paste a job description, and let the AI analyze your resume for job-fit and provide suggestions. 
 
 # Output 
-![Demo](assets\video.gif)
+![Demo](assets\video.mp4)
