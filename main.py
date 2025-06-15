@@ -251,7 +251,7 @@ if st.session_state.form_submitted:
     # Output GIF Demo (Optional)
     st.markdown("""
         <h5 style="color:#1a1a1a;">🎥 Output Demo</h5>
-        <img src="video.gif" style="width:100%; border-radius:10px;" alt="SmartHire Output"/>
+        <img src="assets\video.gif" style="width:100%; border-radius:10px;" alt="SmartHire Output"/>
     """, unsafe_allow_html=True)
 
     
